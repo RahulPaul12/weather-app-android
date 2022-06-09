@@ -33,7 +33,7 @@
             android:id="@+id/forecast"
             android:layout_width="match_parent"
             android:layout_height="52dp"
-            android:text="Rainy"
+            android:text="-"
             android:textAlignment="center"
             android:textColor="#FFF"
             android:textSize="10pt" />
@@ -42,7 +42,7 @@
             android:id="@+id/temp"
             android:layout_width="match_parent"
             android:layout_height="64dp"
-            android:text="22C"
+            android:text="-"
             android:textAlignment="center"
             android:textColor="#FFF"
             android:textSize="10pt" />
@@ -51,7 +51,7 @@
             android:id="@+id/city"
             android:layout_width="match_parent"
             android:layout_height="56dp"
-            android:text="Dhaka"
+            android:text="-"
             android:textAlignment="center"
             android:textColor="#FFF"
             android:textSize="10pt" />
@@ -76,7 +76,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="73"
+                android:text="-"
                 android:textAlignment="center"
                 android:textColor="#FFF"
                 android:textSize="10pt" />
@@ -92,7 +92,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Temperature"
+                android:text="Wind"
                 android:textAlignment="center"
                 android:textColor="#FFF"
                 android:textSize="10pt" />
@@ -102,7 +102,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="33"
+                android:text="-"
                 android:textAlignment="center"
                 android:textColor="#FFF"
                 android:textSize="10pt" />
